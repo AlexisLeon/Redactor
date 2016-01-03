@@ -6,6 +6,10 @@ Visit author website: http://imperavi.com/redactor
 1) Installing
 --------------
 
+First clone this repo with:
+	
+	git clone https://github.com/AlexLeonVader/redactor.git .
+
 Add jquery.min.js, redactor.css and redactor.js to your html:
 	
 	...
@@ -43,4 +47,5 @@ Finaly you'll have some like this:
 	</body>
 
 Final result:
-![alt tag](http://url/to/img.png)
+
+![alt tag](https://raw.githubusercontent.com/AlexLeonVader/redactor/master/preview.png)

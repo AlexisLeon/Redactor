@@ -28,8 +28,7 @@ Add your textarea:
 
 Finaly you'll have some like this: 
 
-	<body>
-		<textarea id="example" cols="30" rows="10"></textarea>
+	<head>
 		<script src="jquery.min.js"></script>
 		<script src="redactor.js"></script>
 		<link rel="stylesheet" href="redactor.css">
@@ -38,4 +37,10 @@ Finaly you'll have some like this:
 		  		$('#example').redactor();
 			});
 		</script>
+	</head>
+	<body>
+		<textarea id="example" cols="30" rows="10"></textarea>
 	</body>
+
+Final result:
+![alt tag](http://url/to/img.png)
